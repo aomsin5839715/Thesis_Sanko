@@ -1,2 +1,2 @@
 # Thesis_Sanko
- This is Cosci Thesis Project Personal
+ This is Cosci Thesis Project for Personal
